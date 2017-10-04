@@ -10,9 +10,9 @@ https://github.com/xmuSistone/VegaLayoutManager
 
 預覽
 --------
-![image](https://i.imgur.com/SJ6CQgg.png)                                      
+![image](https://i.imgur.com/xwmdfM7.jpg)                                      
 
-![image](https://i.imgur.com/n0phTr4.png)                                      
+![image](https://i.imgur.com/xz2oUGh.jpg)                                      
 
 補充
 --------
