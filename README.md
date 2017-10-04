@@ -10,8 +10,11 @@ https://github.com/xmuSistone/VegaLayoutManager
 
 預覽
 --------
-![image](https://i.imgur.com/RhR275q.jpg)                                      
+![image](https://i.imgur.com/SJ6CQgg.png)                                      
 
-![image](https://i.imgur.com/U3lzayd.jpg)                                      
+![image](https://i.imgur.com/n0phTr4.png)                                      
 
-![image](https://i.imgur.com/vuEZ2gw.jpg)        
+補充
+--------
+覺得自己對於RecyclerView.LayoutManager 還沒有很深刻的理解
+之後會找個時間回來, 添加完整的關於LayoutManager注釋
