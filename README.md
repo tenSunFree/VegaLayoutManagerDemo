@@ -17,4 +17,4 @@ https://github.com/xmuSistone/VegaLayoutManager
 補充
 --------
 覺得自己對於RecyclerView.LayoutManager 還沒有很深刻的理解                                     
-之後會找個時間回來, 添加完整的關於LayoutManager注釋
+之後會找個時間回來, 添加完整的關於LayoutManager的注釋
